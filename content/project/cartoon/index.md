@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Streamlit dashboard
+summary: This is a demo project using streamlit
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - MLOps data
+date: 2025-04-18
+external_link: https://github.com/AaronYXZ/ds_portfolio
 ---
