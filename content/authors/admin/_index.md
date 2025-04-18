@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Xiaozhou Yu
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Senior data scientist with over 10 years of experience in 
 
 #interests:
 #- Artificial Intelligence
@@ -52,9 +52,9 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/AaronYXZ
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
