@@ -66,7 +66,7 @@ social:
 #email: ""
 ---
 
-Xiaozhou Yu is a senior data scientist of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaozhou Yu is a senior data scientist specializing in artificial intelligence and time-series forecasting. With experience across both U.S. and Chinese tech ecosystems, he has led the development and deployment of Transformer-based forecasting models, scalable ML systems, and real-time business intelligence dashboards. At SCI99.com, he drives innovation at the intersection of machine learning, cloud infrastructure, and data analytics, helping optimize industrial intelligence at scale.
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
