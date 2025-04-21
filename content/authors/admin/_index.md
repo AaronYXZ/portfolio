@@ -9,8 +9,8 @@ superuser: true
 role: ''
 
 # Status emoji
-status:
-  icon: 
+# status:
+  # icon: 
 
 # Organizations/Affiliations
 #organizations:
@@ -60,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/Profile2.pdf
+    link: files/Profile.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
