@@ -1,0 +1,78 @@
+<svg version="1.1" id="Layer_1" xmlns:x="ns_extend;" xmlns:i="ns_ai;" xmlns:graph="ns_graphs;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 399 44.4" style="enable-background:new 0 0 399 44.4;" xml:space="preserve">
+ <style type="text/css">
+  .st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC4710;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#3C4043;}
+ </style>
+ <metadata>
+  <sfw xmlns="ns_sfw;">
+   <slices>
+   </slices>
+   <sliceSourceBounds bottomLeftOrigin="true" height="44.4" width="399" x="1.2" y="-222.3">
+   </sliceSourceBounds>
+  </sfw>
+ </metadata>
+ <g id="Home">
+  <g id="Home-6" transform="translate(-145.000000, -45.000000)">
+   <g id="Modules-_x2F_-Desktop-_x2F_-Header-Copy" transform="translate(69.000000, 28.000000)">
+    <g id="Logo" transform="translate(76.000000, 17.000000)">
+     <g id="Group-3">
+      <g id="Clip-2">
+      </g>
+      <defs>
+       <filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="72.4" height="44.4">
+        <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0">
+        </feColorMatrix>
+       </filter>
+      </defs>
+      <mask maskUnits="userSpaceOnUse" x="0" y="0" width="72.4" height="44.4" id="mask-2_1_">
+       <g class="st0">
+        <polygon id="path-1_1_" class="st1" points="0,0 72.4,0 72.4,44.4 0,44.4 							">
+        </polygon>
+       </g>
+      </mask>
+      <path id="Fill-1" class="st2" d="M70.5,1.9c-2.6-2.6-6.7-2.6-9.3,0L30.9,32.2c-1.3,1.3-3.4,1.3-4.7,0c-1.3-1.3-1.3-3.4,0-4.7
+						l16.3-16.3c2.6-2.6,2.6-6.7,0-9.3s-6.7-2.6-9.3,0L16.9,18.2c-1.3,1.3-3.4,1.3-4.7,0s-1.3-3.4,0-4.7l2.3-2.3
+						c2.6-2.6,2.6-6.7,0-9.3s-6.7-2.6-9.3,0L2.9,4.3c-3.9,3.9-3.9,10.1,0,14c4.7,4.7,8.6,5.5,13.2,10.1c4.6,4.6,5.4,8.5,10.1,13.2
+						c3.9,3.9,10.1,3.9,14,0l30.3-30.3C73.1,8.7,73.1,4.5,70.5,1.9">
+      </path>
+     </g>
+     <path id="Fill-4" class="st3" d="M150.3,28.9c0,5.1,3.8,9,8.7,9c5,0,8.8-3.9,8.8-9c0-5.1-3.9-9-8.8-9
+					C154.1,19.8,150.3,23.7,150.3,28.9 M174.6,28.9c0,8.9-6.8,15.5-15.5,15.5c-8.7,0-15.5-6.7-15.5-15.5s6.7-15.6,15.5-15.6
+					C167.8,13.3,174.6,20,174.6,28.9">
+     </path>
+     <path id="Fill-6" class="st3" d="M197.5,13.8v6.4c0,0-2.2-0.8-4-0.6c-2.4,0.2-5.5,1.8-7.1,5.1v19.1h-6.8V13.9h6.8V18
+					c1.5-2.9,4.9-4.7,7.6-4.7C195.4,13.3,196.6,13.5,197.5,13.8">
+     </path>
+     <polygon id="Fill-8" class="st3" points="221.7,43.8 208.9,29.7 208.9,43.8 202.2,43.8 202.2,1 208.9,1 208.9,26.8 221.1,13.9 
+					229.6,13.9 215.8,28.2 230.5,43.8 				">
+     </polygon>
+     <path id="Fill-10" class="st3" d="M290.2,13.9v29.9h-6.8v-4c-1.8,2.8-5.3,4.6-9,4.6c-7.5,0-12.2-5.2-12.2-13.4V13.9h6.8v16
+					c0,4.8,2.8,7.8,7.1,7.8c3,0,5.8-1.6,7.4-4.1V13.9H290.2z">
+     </path>
+     <path id="Fill-12" class="st3" d="M294.2,40.1l2.7-5.1c2.3,2.2,6.7,3.7,10.1,3.7c3,0,4.9-1.4,4.9-3.5c0-2.4-3.4-3-7.2-4
+					c-4.5-1.2-9.4-3.3-9.4-8.9c0-5.8,4.8-9.1,11.7-9.1c4.2,0,8.5,1.3,11.2,3.6l-2.7,5.3c-2.4-2.1-6.7-3.2-9.2-3.2
+					c-2.5,0-4.2,1.2-4.2,3.2c0,5.1,16.8,2,16.8,12.8c0,5.6-4.8,9.5-11.7,9.5C302.3,44.4,297.1,42.7,294.2,40.1">
+     </path>
+     <path id="Fill-14" class="st3" d="M323.9,43.8h6.8V13.9h-6.8V43.8z M331.7,4.3c0,2.4-2,4.4-4.4,4.4c-2.4,0-4.3-2-4.3-4.4
+					c0-2.3,2-4.3,4.3-4.3C329.7,0,331.7,2,331.7,4.3L331.7,4.3z">
+     </path>
+     <path id="Fill-16" class="st3" d="M342,28.9c0,5.1,3.8,9,8.7,9c5,0,8.8-3.9,8.8-9c0-5.1-3.9-9-8.8-9
+					C345.8,19.8,342,23.7,342,28.9 M366.3,28.9c0,8.9-6.8,15.5-15.5,15.5c-8.7,0-15.5-6.7-15.5-15.5s6.7-15.6,15.5-15.6
+					C359.5,13.3,366.3,20,366.3,28.9">
+     </path>
+     <path id="Fill-17" class="st3" d="M399,26.7v17.1h-6.8v-16c0-4.8-2.8-7.8-7.1-7.8c-3,0-5.8,1.6-7.4,4.1v19.6h-6.8V13.9h6.8v4
+					c1.8-2.8,5.3-4.6,9-4.6C394.3,13.3,399,18.5,399,26.7">
+     </path>
+     <polygon id="Fill-18" class="st3" points="146.7,0.6 132.3,43.8 126.4,43.8 116.2,14.5 106.1,43.8 100.1,43.8 85.6,0.6 
+					93.3,0.6 103.2,31.9 113.7,0.6 118.9,0.6 129.3,31.9 139.2,0.6 				">
+     </polygon>
+     <polygon id="Fill-19" class="st3" points="259.8,0.6 259.8,7.5 241.5,7.5 241.5,18.7 257.8,18.7 257.8,25.6 241.5,25.6 
+					241.5,43.8 234.3,43.8 234.3,0.6 				">
+     </polygon>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
