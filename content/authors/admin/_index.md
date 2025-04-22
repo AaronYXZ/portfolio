@@ -6,19 +6,19 @@ title: Xiaozhou Yu
 superuser: true
 
 # Role/position
-role: ''
+role: 'Lead Data Scientist'
 
 # Status emoji
 # status:
   # icon: 
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: Sublime China Information 
+  url: "https://intl.sci99.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Senior data scientist with over 10 years of experience in 
+# bio: Senior data scientist with over 10 years of experience in 
 
 #interests:
 #- Artificial Intelligence
