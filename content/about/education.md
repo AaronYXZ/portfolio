@@ -29,10 +29,10 @@ experience:
     location: Hoboken, NJ
     date_start: '2016-09-01'
     date_end: '2018-03-01'
-    description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+    # description: |2-
+    #    * Dissertation on Y
+     #   * Basketball team
+      #  * DJ club
 
   - title: B.S. Statistics
     company: Shanghai University of Finance and Economics 
@@ -41,7 +41,7 @@ experience:
     location: Shanghai, China
     date_start: '2009-09-01'
     date_end: '2013-06-01'
-    description: My dissertation was on X
+    # description: My dissertation was on X
 
 design:
   columns: '1'
