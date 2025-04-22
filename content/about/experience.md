@@ -25,7 +25,7 @@ experience:
   - title: Lead Data Scientist
     company: SCI99.com
     company_url: ''
-    company_logo: workfusion
+    company_logo: sci-logo
     location: Shandong, China
     date_start: '2022-03-31'
     date_end: ''
@@ -52,7 +52,7 @@ experience:
   - title: Data Scientist
     company: Koudai.com
     # company_url: ''
-    # company_logo: org-x
+    company_logo: weidian-logo
     location: Beijing, China
     date_start: '2015-05-01'
     date_end: '2016-07-01'
