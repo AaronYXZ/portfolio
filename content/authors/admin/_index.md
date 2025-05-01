@@ -14,7 +14,7 @@ role: 'Lead Data Scientist'
 
 # Organizations/Affiliations
 organizations:
-- name: Sublime China Information 
+- name: SCI99.com 
   url: "https://intl.sci99.com/"
 
 # Short bio (displayed in user profile at end of posts)
